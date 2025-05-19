@@ -152,17 +152,13 @@ POST /api/notifications
   "message": "This is a sample notification."
 }
 ```
+In type we can choose between "EMAIL" and "SMS"
 
 ### Get Notifications
 
 ```http
 GET /api/users/1/notifications
 ```
----
-
-## Contributing
-
-Pull requests are welcome.
 ---
 
 ## Author
